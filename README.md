@@ -1,6 +1,7 @@
 # Plug-em-up
 ---
 Made with unity
+See [Project page](https://rhapsodysiu.github.io/Light-em-up/) for showcase
 
 Music: DevMoc
 Program: Link Leonhart
